@@ -20,3 +20,5 @@
     npm start
     ```
 5. Open http://localhost:3000 to view it in the browser
+
+6. For setting up backend Refer here.
